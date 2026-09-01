@@ -1,4 +1,4 @@
-# Hi there, I'm Yevhen
+# Hi, I'm Yevhen
 
 I'm a senior backend engineer with 10+ years of software development experience. For the last 5+ years, I have worked mainly with Python, Django, Flask, and FastAPI.
 
