@@ -27,7 +27,7 @@ I recently contributed two changes to [DualEntry CLI](https://github.com/dualent
 
 Both changes were reviewed and merged into the project.
 
-## Main technologies
+## Technologies I work with
 
 Python · Django · FastAPI · Flask · REST APIs · Microservices · AWS · Kubernetes · Docker · PostgreSQL · MySQL · Redis · Kafka · SQS · Celery · Automated Testing
 
