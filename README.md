@@ -4,6 +4,8 @@ I'm a senior backend engineer with 10+ years of software development experience.
 
 My recent work has focused on Python backend development, legacy modernization, testing, production reliability, and cloud infrastructure with AWS and Kubernetes.
 
+Most recently, I worked on Python backend services at Resy, including moving services from EC2 and Auto Scaling Groups to Kubernetes on AWS EKS, modernizing legacy services, and supporting production systems.
+
 ## Selected work
 
 ### Legacy Lobotomy
