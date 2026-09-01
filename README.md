@@ -12,9 +12,7 @@ Most recently, I worked on Python backend services at Resy, including moving ser
 
 [Legacy Lobotomy](https://github.com/JeyKip/legacy-lobotomy) is a practical article series and companion Django project about testing, refactoring, and modernizing a legacy application.
 
-The project shows how I approach existing systems: understand the current behavior, add tests, find problems, and improve the code step by step without rewriting everything from scratch.
-
-The series covers Django and Django REST Framework refactoring, pytest, Selenium testing of the Django admin panel, security issues, test data, dependency upgrades, database performance, API profiling, and other parts of legacy modernization.
+It shows how I approach existing systems: understand the current behavior, add tests, identify problems, and improve the code step by step without rewriting everything from scratch. The series includes Django/DRF refactoring, automated testing, security, dependency upgrades, database performance, and API profiling.
 
 [Read the introductory article](https://levelup.gitconnected.com/legacy-lobotomy-confident-refactoring-of-a-django-project-adbeb064c455)
 
