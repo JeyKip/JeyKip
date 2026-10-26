@@ -16,6 +16,15 @@ It shows how I approach existing systems: understand the current behavior, add t
 
 [Read the introductory article](https://levelup.gitconnected.com/legacy-lobotomy-confident-refactoring-of-a-django-project-adbeb064c455)
 
+### Open-source projects
+
+[pytest-django-admin-kit](https://github.com/JeyKip/pytest-django-admin-kit) is a pytest plugin I built for end-to-end testing of the Django Admin. It opens a real browser with Playwright and uses the admin pages and forms the way a real user would, so you write much less boilerplate.
+
+- Works on Python 3.8 to 3.14 and Django 3.2 to 6.1, with the same API on every version.
+- Available on [PyPI](https://pypi.org/project/pytest-django-admin-kit/).
+- [Examples repo](https://github.com/JeyKip/pytest-django-admin-kit-examples): the same admin tests written in plain pytest-playwright and with the plugin, side by side.
+- [Article on Medium](https://medium.com/gitconnected/end-to-end-django-admin-testing-with-pytest-django-admin-kit-2c299042a0e8) showing what the plugin can do.
+
 ### Open-source contributions
 
 I recently contributed two changes to [DualEntry CLI](https://github.com/dualentry/dualentry-cli), an open-source Python project.
